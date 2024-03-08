@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Tic Tac Toe"
+             x:Class="MauiApp1.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Label
+                Text="jose"
+                x:Name="PtO"
+                />
+            <Label
+                Text="juana"
+                x:Name="PtX"
+                />
+            <Grid>
+                
+                //creacion de los botones utilizados en el juego asu como sus especificaciones
+                <Button
+                    x:Name="button1"
+                    Clicked="Button_Click"
+                    HeightRequest="100"
+                    Margin="0,10,0,0"
+                    WidthRequest="100" />
+
+                <Button
+                    x:Name="button2"
+                    Clicked="Button_Click"
+                    HeightRequest="100"
+                    Margin="300,10,0,0"
+                    WidthRequest="100" />
+
+                <Button
+                    x:Name="button3"
+                    Clicked="Button_Click"
+                    HeightRequest="100"
+                    Margin="600,10,0,0"
+                    WidthRequest="100" />
+
+                <Button
+                    x:Name="button4"
+                    Clicked="Button_Click"
+                    HeightRequest="100"
+                    Margin="0,300,0,0"
+                    WidthRequest="100" />
+
+                <Button
+                    x:Name="button5"
+                    Clicked="Button_Click"
+                    HeightRequest="100"
+                    Margin="300,300,0,0"
+                    WidthRequest="100" />
+
+                <Button
+                    x:Name="button6"
+                    Clicked="Button_Click"
+                    HeightRequest="100"
+                    Margin="600,300,0,0"
+                    WidthRequest="100" />
+
+                <Button
+                    x:Name="button7"
+                    Clicked="Button_Click"
+                    HeightRequest="100"
+                    Margin="0,600,0,0"
+                    WidthRequest="100" />
+
+                <Button
+                    x:Name="button8"
+                    Clicked="Button_Click"
+                    HeightRequest="100"
+                    Margin="300,600,0,0"
+                    WidthRequest="100" />
+
+                <Button
+                    x:Name="button9"
+                    Clicked="Button_Click"
+                    HeightRequest="100"
+                    Margin="600,600,0,0"
+                    WidthRequest="100" />
+                
+            </Grid>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

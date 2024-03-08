@@ -1,0 +1,20 @@
+C:\Users\PC MONKEY\source\repos\Juego del Gato\bin\Debug\Juego del Gato.exe.config
+C:\Users\PC MONKEY\source\repos\Juego del Gato\bin\Debug\Juego del Gato.exe
+C:\Users\PC MONKEY\source\repos\Juego del Gato\bin\Debug\Juego del Gato.pdb
+C:\Users\PC MONKEY\source\repos\Juego del Gato\obj\Debug\Juego del Gato.csproj.AssemblyReference.cache
+C:\Users\PC MONKEY\source\repos\Juego del Gato\obj\Debug\Juego_del_Gato.Form1.resources
+C:\Users\PC MONKEY\source\repos\Juego del Gato\obj\Debug\Juego_del_Gato.Properties.Resources.resources
+C:\Users\PC MONKEY\source\repos\Juego del Gato\obj\Debug\Juego del Gato.csproj.GenerateResource.cache
+C:\Users\PC MONKEY\source\repos\Juego del Gato\obj\Debug\Juego del Gato.csproj.CoreCompileInputs.cache
+C:\Users\PC MONKEY\source\repos\Juego del Gato\obj\Debug\Juego del Gato.exe
+C:\Users\PC MONKEY\source\repos\Juego del Gato\obj\Debug\Juego del Gato.pdb
+C:\Users\PC MONKEY\Desktop\Juego del Gato\bin\Debug\Juego del Gato.exe.config
+C:\Users\PC MONKEY\Desktop\Juego del Gato\bin\Debug\Juego del Gato.exe
+C:\Users\PC MONKEY\Desktop\Juego del Gato\bin\Debug\Juego del Gato.pdb
+C:\Users\PC MONKEY\Desktop\Juego del Gato\obj\Debug\Juego del Gato.csproj.AssemblyReference.cache
+C:\Users\PC MONKEY\Desktop\Juego del Gato\obj\Debug\Juego_del_Gato.Form1.resources
+C:\Users\PC MONKEY\Desktop\Juego del Gato\obj\Debug\Juego_del_Gato.Properties.Resources.resources
+C:\Users\PC MONKEY\Desktop\Juego del Gato\obj\Debug\Juego del Gato.csproj.GenerateResource.cache
+C:\Users\PC MONKEY\Desktop\Juego del Gato\obj\Debug\Juego del Gato.csproj.CoreCompileInputs.cache
+C:\Users\PC MONKEY\Desktop\Juego del Gato\obj\Debug\Juego del Gato.exe
+C:\Users\PC MONKEY\Desktop\Juego del Gato\obj\Debug\Juego del Gato.pdb

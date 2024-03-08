@@ -1,0 +1,14 @@
+C:\Users\PC MONKEY\Desktop\Areas y Perimetros\bin\Debug\net8.0\Areas y Perimetros.exe
+C:\Users\PC MONKEY\Desktop\Areas y Perimetros\bin\Debug\net8.0\Areas y Perimetros.deps.json
+C:\Users\PC MONKEY\Desktop\Areas y Perimetros\bin\Debug\net8.0\Areas y Perimetros.runtimeconfig.json
+C:\Users\PC MONKEY\Desktop\Areas y Perimetros\bin\Debug\net8.0\Areas y Perimetros.dll
+C:\Users\PC MONKEY\Desktop\Areas y Perimetros\bin\Debug\net8.0\Areas y Perimetros.pdb
+C:\Users\PC MONKEY\Desktop\Areas y Perimetros\obj\Debug\net8.0\Areas y Perimetros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC MONKEY\Desktop\Areas y Perimetros\obj\Debug\net8.0\Areas y Perimetros.AssemblyInfoInputs.cache
+C:\Users\PC MONKEY\Desktop\Areas y Perimetros\obj\Debug\net8.0\Areas y Perimetros.AssemblyInfo.cs
+C:\Users\PC MONKEY\Desktop\Areas y Perimetros\obj\Debug\net8.0\Areas y Perimetros.csproj.CoreCompileInputs.cache
+C:\Users\PC MONKEY\Desktop\Areas y Perimetros\obj\Debug\net8.0\Areas y Perimetros.dll
+C:\Users\PC MONKEY\Desktop\Areas y Perimetros\obj\Debug\net8.0\refint\Areas y Perimetros.dll
+C:\Users\PC MONKEY\Desktop\Areas y Perimetros\obj\Debug\net8.0\Areas y Perimetros.pdb
+C:\Users\PC MONKEY\Desktop\Areas y Perimetros\obj\Debug\net8.0\Areas y Perimetros.genruntimeconfig.cache
+C:\Users\PC MONKEY\Desktop\Areas y Perimetros\obj\Debug\net8.0\ref\Areas y Perimetros.dll

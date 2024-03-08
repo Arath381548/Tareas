@@ -1,0 +1,30 @@
+C:\Users\Computo\source\repos\calculadoreichon\bin\Debug\calculadoreichon.exe.config
+C:\Users\Computo\source\repos\calculadoreichon\bin\Debug\calculadoreichon.exe
+C:\Users\Computo\source\repos\calculadoreichon\bin\Debug\calculadoreichon.pdb
+C:\Users\Computo\source\repos\calculadoreichon\obj\Debug\calculadoreichon.csproj.AssemblyReference.cache
+C:\Users\Computo\source\repos\calculadoreichon\obj\Debug\calculadoreichon.Properties.Resources.resources
+C:\Users\Computo\source\repos\calculadoreichon\obj\Debug\calculadoreichon.csproj.GenerateResource.cache
+C:\Users\Computo\source\repos\calculadoreichon\obj\Debug\calculadoreichon.csproj.CoreCompileInputs.cache
+C:\Users\Computo\source\repos\calculadoreichon\obj\Debug\calculadoreichon.exe
+C:\Users\Computo\source\repos\calculadoreichon\obj\Debug\calculadoreichon.pdb
+C:\Users\Computo\source\repos\calculadoreichon\obj\Debug\calculadoreichon.Form1.resources
+C:\Users\Computo\Desktop\calculadoreichon\bin\Debug\calculadoreichon.exe.config
+C:\Users\Computo\Desktop\calculadoreichon\bin\Debug\calculadoreichon.exe
+C:\Users\Computo\Desktop\calculadoreichon\bin\Debug\calculadoreichon.pdb
+C:\Users\Computo\Desktop\calculadoreichon\obj\Debug\calculadoreichon.csproj.AssemblyReference.cache
+C:\Users\Computo\Desktop\calculadoreichon\obj\Debug\calculadoreichon.Form1.resources
+C:\Users\Computo\Desktop\calculadoreichon\obj\Debug\calculadoreichon.Properties.Resources.resources
+C:\Users\Computo\Desktop\calculadoreichon\obj\Debug\calculadoreichon.csproj.GenerateResource.cache
+C:\Users\Computo\Desktop\calculadoreichon\obj\Debug\calculadoreichon.csproj.CoreCompileInputs.cache
+C:\Users\Computo\Desktop\calculadoreichon\obj\Debug\calculadoreichon.exe
+C:\Users\Computo\Desktop\calculadoreichon\obj\Debug\calculadoreichon.pdb
+C:\Users\PC MONKEY\Desktop\calculadoreichon\bin\Debug\calculadoreichon.exe.config
+C:\Users\PC MONKEY\Desktop\calculadoreichon\bin\Debug\calculadoreichon.exe
+C:\Users\PC MONKEY\Desktop\calculadoreichon\bin\Debug\calculadoreichon.pdb
+C:\Users\PC MONKEY\Desktop\calculadoreichon\obj\Debug\calculadoreichon.csproj.AssemblyReference.cache
+C:\Users\PC MONKEY\Desktop\calculadoreichon\obj\Debug\calculadoreichon.Form1.resources
+C:\Users\PC MONKEY\Desktop\calculadoreichon\obj\Debug\calculadoreichon.Properties.Resources.resources
+C:\Users\PC MONKEY\Desktop\calculadoreichon\obj\Debug\calculadoreichon.csproj.GenerateResource.cache
+C:\Users\PC MONKEY\Desktop\calculadoreichon\obj\Debug\calculadoreichon.csproj.CoreCompileInputs.cache
+C:\Users\PC MONKEY\Desktop\calculadoreichon\obj\Debug\calculadoreichon.exe
+C:\Users\PC MONKEY\Desktop\calculadoreichon\obj\Debug\calculadoreichon.pdb
